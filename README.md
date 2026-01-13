@@ -131,4 +131,3 @@ Visualizations help interpret isotope behavior across different decay regimes.
 
 ## Author
 Shruti Ingle
-Computer Engineering Student
